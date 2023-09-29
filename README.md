@@ -14,10 +14,10 @@ Welcome to **Ping Pong**, a classic arcade game developed in Python using Turtle
 ## Files
 [main.py](/main.py)
 
-- [main.py](/main.py): Contains the main game logic.
-- [score.py](/score.py): Manages the scoring system.
-- [paddle.py](/paddle.py): Defines the paddle behavior.
-- [ball.py](/ball.py): Implements the ball movement and collision detection.
+- [main.py](/main.py)  : Contains the main game logic.
+- [score.py](/score.py)  : Manages the scoring system.
+- [paddle.py](/paddle.py)  : Defines the paddle behavior.
+- [ball.py](/ball.py)  : Implements the ball movement and collision detection.
 
 ## Getting Started
 
