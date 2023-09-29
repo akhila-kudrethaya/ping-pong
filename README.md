@@ -12,6 +12,7 @@ Welcome to **Ping Pong**, a classic arcade game developed in Python using Turtle
 - Player 2 (Right Paddle) can move up with **1** key and down with **0** key.
 
 ## Files
+[main.py](/main.py)
 
 - **main.py**: Contains the main game logic.
 - **score.py**: Manages the scoring system.
